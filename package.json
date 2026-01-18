@@ -1,0 +1,16 @@
+{
+  "name": "gg-card-api",
+  "version": "3.2.1",
+  "description": "API Node.js para geração de cartões fictícios para testes de desenvolvimento",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
